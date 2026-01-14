@@ -1,12 +1,9 @@
 pydantic
 langchain
-langchain
 python-dotenv
-langchain-google-genai 
 google-generativeai
 uvicorn
 fastapi
-langgraph-cli[inmem]
 agents
 streamlit
 dotenv
@@ -16,6 +13,8 @@ langfuse
 pymongo
 openinference-instrumentation-google-genai
 email-validator
+pydantic[email]
+
 
 
 
