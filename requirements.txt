@@ -1,4 +1,3 @@
-os
 pydantic
 langchain
 langchain
@@ -16,5 +15,6 @@ google-genai
 langfuse
 pymongo
 openinference-instrumentation-google-genai
+
 
 
