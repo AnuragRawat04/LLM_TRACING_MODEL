@@ -13,5 +13,6 @@ dotenv
 google-generativeai
 google-genai
 langfuse
-
+pymongo
 openinference-instrumentation-google-genai
+
